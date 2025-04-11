@@ -181,6 +181,7 @@ Matrix4x4 Multiply(const Matrix4x4& m1, const Matrix4x4& m2)
 	return ret;
 }
 
+
 Matrix4x4 Inverse(const Matrix4x4& m)
 {
 	Matrix4x4 ret;
